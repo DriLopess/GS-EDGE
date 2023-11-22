@@ -29,9 +29,3 @@ Acesse a simulação do projeto no Wokwi [aqui](link_para_a_simulacao_no_wokwi).
 ## Estrutura do Código
 - O código-fonte principal está no arquivo `main.ino`.
 - A pasta `src` contém outros arquivos de código-fonte, como `DHTWrapper.cpp` e `DHTWrapper.h`.
-
-## Contribuição
-Sinta-se à vontade para contribuir, abrir issues ou propor melhorias. Todas as contribuições são bem-vindas!
-
-## Licença
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
