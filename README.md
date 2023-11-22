@@ -24,7 +24,7 @@ O sistema utiliza um sensor de temperatura DHT22 para medir a temperatura ambien
 2. Monitore a saída serial para obter informações sobre a temperatura e a conectividade MQTT.
 
 ## Simulação no Wokwi
-Acesse a simulação do projeto no Wokwi [aqui](file:///C:/Users/drixd/Downloads/ESP32%20FIWARE2%20-%20Wokwi%20ESP32.html).
+Acesse a simulação do projeto no Wokwi [aqui](https://wokwi.com/projects/381972067196476417).
 
 ## Estrutura do Código
 - O código-fonte principal está no arquivo `main.ino`.
